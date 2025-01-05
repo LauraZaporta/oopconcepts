@@ -1,0 +1,16 @@
+BASIC CONCEPTS:
+---------------
+
+- Object: Encapsulated unit of data which has attributes and behaviour. Everything in real life is an object (animals, clothes, people, terrains...) and, in OOP a program
+		  is a set of objects which interact with each other. An example of an object could be a Tree (unit of data) with a certain type, height, humidity... (attributes) 
+		  that does photosyntesis (behavior).
+
+- Class: Template definition of the attributes and behavior in a particular kind of object. Taking the previous example, a tree, to create an object "tree" with the
+	     attributes and behavior defined in the object definition we should create a class "tree" that has the teamplate of the variables type, height and humidity as attributes 
+		 and the teamplate of the method photosyntesis as behavior for future instances of an object of the class.
+
+- Instance: A specific object built from a specific class. For example, looking again at "tree", an instance of this class could be an object named "oaktree" from the class
+			tree with the type "oak", the height "3", and the humidity "0.5".
+
+- Constructor: Element which does the construction of every object of an specific class. And what is the construction of an object? Basically, is the action of creating
+			   an object assigning/initialaizing values to every attribute of it. 
