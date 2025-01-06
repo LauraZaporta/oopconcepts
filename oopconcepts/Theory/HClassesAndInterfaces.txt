@@ -1,0 +1,8 @@
+HC AND INTERFACES:
+------------------
+
+- Helper classes: To begin with, there is no such thing as an academic definition of a helper class. But we can say it's a class with no attributes, just utility methods.
+  For example, in C# the class "Math" is a helper class.
+
+- Interfaces: Collection of abstract behaviors that can be adopted by any class, meaning they don't have to be inherited from a superclass. This methods have to be definied
+  by the class that implements them because the interface only declares them.
