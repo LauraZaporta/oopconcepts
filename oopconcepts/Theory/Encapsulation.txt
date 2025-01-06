@@ -1,0 +1,17 @@
+ENCAPSULATION:
+--------------
+
+- What is encapsulation? Encapsulation is a concept in programming which consists in hiding design decisions, so that changes in a class affect as little as possible 
+  the software which has already been developed.
+
+- How does it apply in actual code? It applies with acces modifiers (private, protected, package and public) which specify the accessibility to modify variables, 
+  methods and classes.
+
+- What are the rules of encapsulation in OOP with C#? First of all, in C# the acces modifiers change a bit: there's private (members only visible inside the class), 
+  protected (members only visible inside the class and its subclasses), internal (members visible in the same namespace as the compilation) and public (visible for all).
+  Knowing this we can state the main rule of encapsulation in C#: The object's attributes (or object state) must always be fully protected from direct manipulation outside
+  the class; in other words, they have to be private and can only be accessed by class methods (from the same class obviously).
+
+  There are other important keywords that should be known inside of encapsulation which are static (makes an element from that class be dependant on the class and not
+  an instance of said class), abstract (for classes and methods which are declared but not defined), virtual (used in class elements to allow the subclasses to rewrite
+  those elements), override (used in subclass elements to rewrite elements which have been taken from the base class), etc.
