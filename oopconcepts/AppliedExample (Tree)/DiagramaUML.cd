@@ -6,6 +6,7 @@
       <HashCode>AAAAAAAAhAAAAAAAAAACAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
       <FileName>AppliedExample (Tree)\Tree.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="oopconcepts.Conifer" Collapsed="true">
     <Position X="6.75" Y="4.25" Width="1.5" />
@@ -13,6 +14,21 @@
       <HashCode>AAAAAAAAgAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>AppliedExample (Tree)\Conifer.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
+  <Class Name="oopconcepts.HelperClass" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>AppliedExample (Tree)\HelperClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="oopconcepts.Plant" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plant.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

@@ -2,7 +2,7 @@
 
 namespace oopconcepts
 {
-    public class Conifer : Tree
+    public class Conifer : Tree, IPlant
     {
         public string TypeCone { get; set; }
 

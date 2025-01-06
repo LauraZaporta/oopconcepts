@@ -2,7 +2,7 @@
 
 namespace oopconcepts
 {
-    public class Tree
+    public class Tree : IPlant
     {
         public string Type { get; set; }
         public double Height { get; set; }
