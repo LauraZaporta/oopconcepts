@@ -1,0 +1,10 @@
+IAP:
+----
+
+- Inheritance: Consists in defining new classes (subclasses) based on already existing classes (base classes). For example, imagine that we have our class "tree"
+  and from this one we would make another one named "conifers" with the same base attributes as tree (taken from it, obviously) and, optionally, create more attributes 
+  or methods specifics of that subclass like "TypeCone" as an attribute.
+
+- Polymorphism: It is the characteristic of objects that allows implementing a method with the same name in various classes (which are related in inheritance relations), 
+  each with a different functionality. There are two types of polymorphism: overloading (in the same class, same method name but different parameters), and
+  overriding (same method signature in the base class and subclass but different content inside).
