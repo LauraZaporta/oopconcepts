@@ -15,7 +15,7 @@ namespace oopconcepts
         }
         public Tree() { }
         
-        public void Photosyntesis()
+        public virtual void Photosyntesis()
         {
             Console.WriteLine("Does photosyntesis");
         }
