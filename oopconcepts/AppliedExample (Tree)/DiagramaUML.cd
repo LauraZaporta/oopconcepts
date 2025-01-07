@@ -27,7 +27,7 @@
     <Position X="8.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>AppliedExample (Tree)\Plant.cs</FileName>
+      <FileName>AppliedExample (Tree)\IPlant.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />
