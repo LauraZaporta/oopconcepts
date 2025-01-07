@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace oopconcepts
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            Tree oak = new Tree("oak", 4.3, 0.5);
+        }
+    }
+} 
+

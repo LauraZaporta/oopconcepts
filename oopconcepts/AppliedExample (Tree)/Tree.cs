@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace oopconcepts
+{
+    public class Tree : IPlant
+    {
+        public string Type { get; set; }
+        public double Height { get; set; }
+        public double Humidity { get; set; }
+
+        public Tree(string type, double height, double humidity) {
+            Type = type;
+            Height = height;
+            Humidity = humidity;
+        }
+        public Tree() { }
+        
+        public virtual void Photosyntesis()
+        {
+            Console.WriteLine("Does photosyntesis");
+        }
+    }
+}
