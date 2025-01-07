@@ -23,11 +23,11 @@
       <FileName>AppliedExample (Tree)\HelperClass.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="oopconcepts.Plant" Collapsed="true">
+  <Interface Name="oopconcepts.IPlant" Collapsed="true">
     <Position X="8.5" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Plant.cs</FileName>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppliedExample (Tree)\Plant.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />
