@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="VideoLink.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="AppliedExample %28Tree%29\Theory\" />
   </ItemGroup>
 
