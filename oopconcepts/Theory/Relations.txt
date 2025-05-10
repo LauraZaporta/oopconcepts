@@ -1,0 +1,13 @@
+TYPES OF RELATIONS (Betwween objects):
+--------------------------------------
+
+- Association: Defines a simple connection between two objects. For example, imagine We have the object Pigeon and the object Tree and the relation stablished between the
+  Two is Pigeon LIVES IN Tree.
+
+- Composition: Relation defined as a part-of-everything where each part of the relation can't exist or doesn't make sense to exist outside the everything. For example,
+  the trunk of a tree is paart of the tree but doesn't make much sense existing outside of It.
+
+- Agregation: Relation defined as a part-of-everything similaar to composition but "weaker" (each part of everything can exist without the everything). For example, an apple
+  of an apple tree is part of the tree. However, It can exist outside of It.
+
+- Inheritance: Explained previously in the .txt "InheritanceAndPolymorphism".
